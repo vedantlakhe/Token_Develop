@@ -3,7 +3,7 @@ This course was designed to introduce some basic concepts of Web3 and aso about 
 
 ## Challenge Description
 
-I have created a contract with tha name as mytoken in that I used string and uint variable : for strings  I gave a name as  token named "ved" abbreviated as "v". There is the record of its total supply. And if someone mints some "prath" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply.
+I have created a contract with tha name as mytoken in that I used string and uint variable : for strings  I gave a name as  token named "ved" abbreviated as "v". There is the record of its total supply. And if someone mints some "v" tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply.
 
 ### Install
 
